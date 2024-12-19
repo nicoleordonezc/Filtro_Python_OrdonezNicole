@@ -1,0 +1,48 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nombre": "Pedro Gomez",
+            "direccion": "Zona Franca",
+            "contacto": "123456",
+            "plan": "prepago",
+            "categoria": "Nuevo",
+            "registro": [],
+            "reclamos": [
+                "lol"
+            ],
+            "tiempo_afiliado": 7
+        },
+        {
+            "id": 2,
+            "nombre": "Viviana Centeno",
+            "direccion": "zona franca",
+            "contacto": "123",
+            "plan": "prepago",
+            "categoria": "Nuevo",
+            "registro": [
+                "prepago",
+                "pospago"
+            ],
+            "reclamos": [],
+            "tiempo_afiliado": 0
+        }
+    ],
+    "servicios": [
+        {
+            "nombre": "Fibra optica",
+            "valor": 50000,
+            "descripcion": "La fibraoptica es muy buena"
+        },
+        {
+            "nombre": "Prepago",
+            "valor": 25000,
+            "descripcion": "Con Prepago puede pagar antes"
+        },
+        {
+            "nombre": "Postpago",
+            "valor": 30000,
+            "descripcion": "Con Postpago puede pagar antes"
+        }
+    ]
+}
