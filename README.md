@@ -19,14 +19,18 @@
 ```bash
 4 horas
 ```
+
 > [!NOTE]
->Cualquier pregunta debe ser en publico
+>Las preguntas deben hacerse solo al profesor
 
 > [!TIP]
-> Puede consultar su proyecto
->
+> Puede ver su proyecto
+
+> [!IMPORTANT]  
+> Entregar el examen a tiempo
+
 > [!WARNING]  
-> NO se permite copiar
+> NO esta permitido copiar
 
 > [!CAUTION]
-> NO se permiten celulares
+> NO esta permitido el uso del celular
