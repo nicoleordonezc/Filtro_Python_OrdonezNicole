@@ -2,23 +2,23 @@
 
 **Examen diagnostico**
 
-## Evaluacion de CRUD
-
-*Conocer las habilidades del estudiante para realizar un CRUD*
-
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | Crear |
-| 2 | Actualizar |
-| 3 | Leer |
-| 4 | Eliminar |
+| 1 | Evaluacion |
+| 2 | Tiempo de prueba |
+| 3 | Recomendaciones |
+
+## EVALUACION
+
+*Conocer las habilidades del estudiante para realizar un CRUD*
 
 ### TIEMPO DE PRUEBA
 
 ```bash
 4 horas
 ```
+### RECOMENDACIONES
 
 > [!NOTE]
 >Las preguntas deben hacerse solo al profesor
