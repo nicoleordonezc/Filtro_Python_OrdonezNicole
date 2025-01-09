@@ -25,10 +25,6 @@
 > [!TIP]
 > Puede consultar su proyecto
 >
-> 
-> [!IMPORTANT]  
-> Debe ser entregado a tiempo
-
 > [!WARNING]  
 > NO se permite copiar
 
