@@ -25,7 +25,7 @@
 > [!TIP]
 > Puede consultar su proyecto
 > 
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > Debe ser entregado a tiempo
 
 > [!WARNING]  
