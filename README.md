@@ -4,7 +4,7 @@
 
 ## Evaluacion de CRUD
 
-*COnocer las habilidades del estudiante para realizar un CRUD*
+*Conocer las habilidades del estudiante para realizar un CRUD*
 
 ## Tabla de contenidos
 | Indice | Titulo  |
